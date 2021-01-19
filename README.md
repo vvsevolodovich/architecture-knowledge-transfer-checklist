@@ -1,5 +1,6 @@
 # architecture-knowledge-transfer-checklist
-Checklist on what should be done during Knowledge Transfer for Solution Architectures
+Checklist on what should be done during Knowledge Transfer for Solution Architectures.
+Based [on the article by Vladimir Ivanov](https://vvsevolodovich.dev/solution-architecture-knowledge-transfer-checklist/)
 
 * People
     - [ ] Org Chart
