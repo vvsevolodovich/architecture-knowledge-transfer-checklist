@@ -5,6 +5,9 @@ Checklist on what should be done during Knowledge Transfer for Solution Architec
     - [ ] Org Chart
     - [ ] Project Stakeholders
     - [ ] Teams
+* Handover
+    - [ ] Reasons
+    - [ ] Expectations
 * Requirements
     - [ ] Functional Requirements
     - [ ] Non-Functional Requirements
